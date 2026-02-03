@@ -31,11 +31,11 @@ The project emphasizes **behavioral UI logic over static presentation**, showcas
 ---
 
 ## System Design Overview
-
+```shell
 PulsePage/
 ├── index.html        # Unified entry point (markup, style, logic)
 └── README.md         # Technical documentation
-
+```
 ---
 
 ## Interaction Logic Breakdown
@@ -76,11 +76,10 @@ PulsePage/
 
 ---
 
-## Author
-**Akash G Patil**  
-GitHub: https://github.com/akashcodes23
-
----
-
 ## Licensing
-Released under the **MIT License** — free for modification, reuse, and distribution.
+Licensed under the MIT License, allowing full flexibility to reuse, modify, distribute, and integrate this project into personal or commercial applications. Attribution is required.
+
+## Contact
+
+If you have questions, suggestions, or collaboration ideas, feel free to reach out at:
+📩 akashgpatil23.05@gmail.com

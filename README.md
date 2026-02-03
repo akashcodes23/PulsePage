@@ -75,11 +75,14 @@ PulsePage/
 - Theming via CSS variables
 
 ---
-
+---
 ## Licensing
 Licensed under the MIT License, allowing full flexibility to reuse, modify, distribute, and integrate this project into personal or commercial applications. Attribution is required.
+---
 
+---
 ## Contact
-
 If you have questions, suggestions, or collaboration ideas, feel free to reach out at:
+
 📩 akashgpatil23.05@gmail.com
+

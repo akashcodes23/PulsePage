@@ -31,6 +31,7 @@ The project emphasizes **behavioral UI logic over static presentation**, showcas
 ---
 
 ## System Design Overview
+
 PulsePage/
 ├── index.html        # Unified entry point (markup, style, logic)
 └── README.md         # Technical documentation
@@ -81,5 +82,5 @@ GitHub: https://github.com/akashcodes23
 
 ---
 
-## 📜 Licensing
+## Licensing
 Released under the **MIT License** — free for modification, reuse, and distribution.
